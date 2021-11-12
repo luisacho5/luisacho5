@@ -4,11 +4,11 @@
 I´m Luis Sánchez from Spain, and I do content on Development. I really enjoy learning languages and frameworks like Spring, as well as work in Kotlin for mobile development. Right now I´m finishing my studies in the University Rey Juan Carlos while I´m learning a lot about Backend development in my internship in Kairos DS.
 
 ## Skills and Experience
-•♨️ JAVA 
-•🍃 SPRING
-•📱 KOTLIN
-•💻 HTML,CSS,JS
-•🐍 PYTHON
+* ♨️ JAVA 
+* 🍃 SPRING
+* 📱 KOTLIN
+* 💻 HTML,CSS,JS
+* 🐍 PYTHON
 
 - 🔭 I’m currently working on Kairos DS 
 
