@@ -1,24 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Luis Sánchez
+#### Software Developer
+![Software Developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
-I´m Luis Sánchez from Spain, and I do content on Development. I really enjoy learning languages and frameworks like Spring, as well as work in Python and Kotlin.
+I´m Luis Sánchez from Spain, and I do content on Development. I really enjoy learning languages and frameworks like Spring, as well as work in Kotlin for mobile development. Right now I´m finishing my studies in the University Rey Juan Carlos while I´m learning a lot about Backend development in my internship in Kairos DS.
+
+Skills: JAVA / SPRING / KOTLIN / PYTHON / JS / HTML / CSS
+
+- 🔭 I’m currently working on Kairos DS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/luisacho5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-s%C3%A1nchez-rebollo//)  
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisacho5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-
-<!--
-**luisacho5/luisacho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
